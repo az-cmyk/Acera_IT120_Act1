@@ -2,3 +2,6 @@ Elementary School: Ampayon Central Elementary School
 Year Graduated (Elementary): 2017 (Corrected Year Graduated)
 High School: Candelaria Institute of Technology of Cabadbaran Inc.
 Year Graduated (High School): 2023
+College: Caraga State University of Cabadbaran Campus
+Program: Bachelor Science of Information Technology
+Year Level: 3rd Year 
