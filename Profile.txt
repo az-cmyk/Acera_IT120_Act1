@@ -3,3 +3,9 @@ MiddleName: Juntilla
 LastName: Acera
 Age: 21
 Birthdate: 2004-07-22
+Birth Place: Cabadbaran City, Agusan Del Norte< Philippines
+Religion: Roman Catholic
+Father's Name: Jose G. Acera
+Father's Occupations: Security Government
+Mother's Name: Neneth R. Juntilla
+Mother's Occupations: N\A
